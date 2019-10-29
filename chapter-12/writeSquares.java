@@ -23,3 +23,4 @@ public static void writeSquares(int n) {
         System.out.print(", " + n * n);
     }
 }
+// for instance what if you call in for 8, how does it go from odd to 1 then even increase. I am asking for a friend. halp us!
